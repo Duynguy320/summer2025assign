@@ -1,0 +1,4 @@
+test 2025 100
+honda 2000 2000
+truck 2001 1000
+cybertruck 2024 99999
