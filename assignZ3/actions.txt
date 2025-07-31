@@ -1,0 +1,38 @@
+a John Smith
+a Alice Johnson
+a Bob Lee
+a Carol Davis
+a David Wright
+s 0
+s 1
+s 2
+c
+
+a Emma Thomas
+a Frank Moore
+a Grace Taylor
+c
+
+a Henry Martin
+a Irene White
+a Jack Harris
+s 0
+s 1
+s 2
+c
+
+a Kelly Lewis
+a Liam Walker
+a Mia Young
+a Noah King
+s 0
+s 1
+s 2
+s 0
+s 1
+s 2
+s 0
+s 1
+s 2
+c
+
