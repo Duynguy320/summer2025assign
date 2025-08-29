@@ -6,6 +6,10 @@ Lex.o : Lex.c List.h
 
 List.o : List.c List.h
 	gcc -c -std=c99 -Wall List.c
+ListTest: ListTest.o List.o
+	gcc -o ListTest ListTest.o List.o
+
+
 
 clean :
-	rm -f Lex ListClient Lex.o ListClient.o List.o
+	rm -f Lex Lex.o List.o
